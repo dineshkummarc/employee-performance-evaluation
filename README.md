@@ -1,4 +1,4 @@
-# epes_0
+# epes_0 (Employee Performance Evaluation System)
 
 <p><b>Project: Simple Employee Performance Evaluation System using PHP/MySQLi</b></p>
 
